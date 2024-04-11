@@ -14,6 +14,10 @@ To write a python program to find the rank of a matrix
 ### Step 4: end the program
 ## Program:
 ```
+Developed by: Supraja B
+Register number: 2305002026
+```
+```
 import numpy as np
 A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank=np.linalg.matrix_rank(A)
